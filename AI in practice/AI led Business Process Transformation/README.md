@@ -11,4 +11,7 @@ Industries are leveraging AI for large scale business process transformations. W
     - The business process is now almost completely Automated.
     - Reduce claims “leakage”: the dollars lost through claims management “inefficiencies”.
     - Enhances customer experience and satisfaction.
+    
+    
+ ![Business Process Transformation using AI](https://github.com/pawanmandhan/introduction-to-artificial-intelligence/blob/master/AI%20in%20practice/AI%20led%20Business%20Process%20Transformation/img/Capture39.PNG)
 
