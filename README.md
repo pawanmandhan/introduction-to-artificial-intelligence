@@ -4,4 +4,4 @@
   - [AI led Business Process Transformation](https://github.com/pawanmandhan/introduction-to-artificial-intelligence/edit/master/AI%20in%20practice/AI%20led%20Business%20Process%20Transformation)
   
  - [AI in business](https://github.com/pawanmandhan/introduction-to-artificial-intelligence/tree/master/AI%20in%20Business)
-  - [Business Applications of AI](https://github.com/pawanmandhan/introduction-to-artificial-intelligence/tree/master/AI%20in%20Business/Business%20Applications%20of%20AI)
+   - [Business Applications of AI](https://github.com/pawanmandhan/introduction-to-artificial-intelligence/tree/master/AI%20in%20Business/Business%20Applications%20of%20AI)
