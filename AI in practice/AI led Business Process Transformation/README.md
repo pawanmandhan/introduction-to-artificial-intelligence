@@ -14,4 +14,12 @@ Industries are leveraging AI for large scale business process transformations. W
     
     
  ![Business Process Transformation using AI](https://github.com/pawanmandhan/introduction-to-artificial-intelligence/blob/master/AI%20in%20practice/AI%20led%20Business%20Process%20Transformation/img/Capture39.PNG)
+ 
+ # Business Process Transformation using Cloud, Big Data and AI
+ 
+ ## Amazon
+    - Amazon has gained market Leadership  by use of technologies (Is in the list of top 10 retailers in US).
+    - It has Built Competitive edge by using Cloud, Big data & AI technologies\
+    - 80% of e-commerce giants say that they lag behind Amazon in analytics maturity - EKN Research
+    - This market is scared of Amazon - CNBC
 
