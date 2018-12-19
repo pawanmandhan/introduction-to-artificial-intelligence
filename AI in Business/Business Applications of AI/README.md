@@ -26,3 +26,5 @@ Businesses have now started realizing the use of data to improve their products/
   - AI software to grow for $664 M in 2016 to $37 billion in 2025.
 
 # Applications of AI
+
+![Applications of AI](https://github.com/pawanmandhan/introduction-to-artificial-intelligence/tree/master/AI%20in%20Business/Business%20Applications%20of%20AI/img/applications_of_ai.png)
