@@ -5,3 +5,4 @@
   
  - [AI in business](https://github.com/pawanmandhan/introduction-to-artificial-intelligence/tree/master/AI%20in%20Business)
    - [Business Applications of AI](https://github.com/pawanmandhan/introduction-to-artificial-intelligence/tree/master/AI%20in%20Business/Business%20Applications%20of%20AI)
+   - [AI in Retail](https://github.com/pawanmandhan/introduction-to-artificial-intelligence/tree/master/AI%20in%20Business/AI%20in%20Retail)
