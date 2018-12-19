@@ -3,12 +3,9 @@ Industries are leveraging AI for large scale business process transformations. W
 
 # Insurance Claim Process
   - Insurance Claims cost almost 80% of the premium income. 
-
   - Time consuming , labor intensive, laws require settlement of claim within stipulated period.
 
 # How has AI led to the transformation of the entire claims process?
   - The business process is now almost completely Automated.
-
   - Reduce claims “leakage”: the dollars lost through claims management “inefficiencies”.
-
   - Enhances customer experience and satisfaction.
