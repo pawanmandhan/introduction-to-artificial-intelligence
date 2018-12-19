@@ -23,3 +23,6 @@ Industries are leveraging AI for large scale business process transformations. W
     - 80% of e-commerce giants say that they lag behind Amazon in analytics maturity - EKN Research
     - This market is scared of Amazon - CNBC
 
+## How has AI led to the transformation of Amazon?
+
+ ![How has AI led to the transformation of Amazon](https://github.com/pawanmandhan/introduction-to-artificial-intelligence/blob/master/AI%20in%20practice/AI%20led%20Business%20Process%20Transformation/img/Capture40.PNG)
